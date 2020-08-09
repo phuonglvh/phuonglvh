@@ -63,11 +63,13 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<a href="https://github.com/phuonglvh">
-    <img align="left"
-        src="https://github-readme-stats.vercel.app/api?username=phuonglvh&show_icons=true&layout=compact&include_all_commits=true&theme=graywhite&count_private=true&show_owner=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-    <img align="right"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuonglvh&show_icons=true&layout=compact&include_all_commits=true&theme=graywhite&count_private=true&show_owner=true" />
-</a>
+<p align="center">
+    <a href="https://github.com/phuonglvh">
+        <img align="left"
+            src="https://github-readme-stats.vercel.app/api?username=phuonglvh&show_icons=true&layout=compact&include_all_commits=true&theme=graywhite&count_private=true&show_owner=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+        <img align="right"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuonglvh&show_icons=true&layout=compact&include_all_commits=true&theme=graywhite&count_private=true&show_owner=true" />
+    </a>
+</p>
