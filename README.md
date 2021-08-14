@@ -1,67 +1,35 @@
-### Welcome to Le Van Hoang Phuong's Github 👋
-Please reach out to me at: https://phuonglvh.github.io
-<!--
-**phuonglvh/phuonglvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 Welcome to Phuong's Github 👋
 
-Here are some ideas to get you started:
+I am a Back-end Engineer
+- 🔭 Working on projects: MERN Stack, Spring Boot, AI and Mobile (Flutter)
+- ✨ Familiar with micro-service architecture
+- 🌱 Learning design patterns in depth
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- [![Phuong Le Van Hoang's github stats](https://github-readme-stats.vercel.app/api?username=phuonglvh&show_icons=true&layout=compact&include_all_commits=true&theme=graywhite&count_private=true&show_owner=true)](https://github.com/phuonglvh)
+👉 Reach out to me: [phuonglvh.github.io](https://phuonglvh.github.io)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuonglvh&show_icons=true&layout=compact&include_all_commits=true&theme=graywhite&count_private=true&show_owner=true)](https://github.com/phuonglvh)
- -->
-<p align="center">
-    <a href="https://www.oracle.com/java/">
-        <img align="center" alt="Java"
-            src="https://img.shields.io/badge/-Java-3626e3?style=flat-square&logo=Java&logoColor=007396" />
-    </a>
-    <a href="https://www.python.org/">
-        <img align="center" alt="Python"
-            src="https://img.shields.io/badge/-Python-e5cd0c?style=flat-square&logo=Python&logoColor=3776AB" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img align="center" alt="JavaScript"
-            src="https://img.shields.io/badge/-JavaScript-e34f26?style=flat-square&logo=JavaScript&logoColor=F7DF1E" />
-    </a>
-</p>
+## Connect with me
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/phuonglvh/)
+<br>
+<br>
 
-<p align="center">
-    <a href="https://spring.io/">
-        <img align="center" alt="Spring"
-            src="https://img.shields.io/badge/-Spring-e39b26?style=flat-square&logo=Spring&logoColor=6DB33F" />
-    </a>
-    <a href="https://nodejs.org/">
-        <img align="center" alt="Nodejs"
-            src="https://img.shields.io/badge/-NodeJs-e39b26?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-    </a>
-    <a href="https://expressjs.com/">
-        <img align="center" alt="Expressjs"
-            src="https://img.shields.io/badge/-Express-e39b26?style=flat-square&logo=express&logoColor=007396" />
-    </a>
-    <a href="https://reactjs.org/">
-        <img align="center" alt="React"
-            src="https://img.shields.io/badge/-React-e39b26?style=flat-square&logo=React&logoColor=61DAFB" />
-    </a>
-</p>
+## Expertise
 
-<p align="center">
-    <a href="https://www.mysql.com/">
-        <img align="center" alt="MySQL"
-            src="https://img.shields.io/badge/-MySQL-e39b26?style=flat-square&logo=MySQL&logoColor=4479A1" />
-    </a>
-    <a href="https://www.mongodb.com/">
-        <img align="center" alt="MongoDB"
-            src="https://img.shields.io/badge/-MongoDB-e39b26?style=flat-square&logo=mongodb&logoColor=47A248" />
-    </a>
-</p>
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="left" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="mysql" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img align="left" alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+<img align="left" alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+<img align="left" alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<br>
+<br>
+<br>
+<br>
+
 
 <a href="https://github.com/phuonglvh">
     <img align="center"
