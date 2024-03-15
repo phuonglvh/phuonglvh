@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to Phuong's Github 👋
 
-I am a Back-end Engineer
+I am currently a Senior Software Engineer (acting Lead and a Solution Designer trainee)
 - 🔭 Working on projects: MERN Stack, Spring Boot, AI and Mobile (Flutter)
 - ✨ Familiar with micro-service architecture
 - 🌱 Learning design patterns in depth
